@@ -11,6 +11,7 @@ O front end também foi o mais simples possível, utilizando apenas as tecnologi
 ## Como executar
 O notebook pode ser executado dentro do Google Colab, mas recomenda-se que a execução
 se dê no vscode, para uso de mais nucleos.
+No repositório, acesse  /ml/notebooks/model_v2.ipynb
 
 ## API
 Será necessário ter todas as libs python listadas no `requirements.txt` instaladas.
@@ -43,4 +44,5 @@ Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para ve
 Basta executar o arquivo index.html na pasta frontend, preencher dados imaginários e enviar o formulário.
 
 ## Link para o vídeo
+https://youtu.be/kMPBTPpI0Jc
 
